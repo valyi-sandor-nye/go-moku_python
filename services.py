@@ -1,5 +1,5 @@
 import random
-
+from model import Sign, Position, Table, GameState
 
 class GameLogic:
     @staticmethod
